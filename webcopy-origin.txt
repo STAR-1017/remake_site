@@ -1,0 +1,368 @@
+Uri: http://remake.co.jp/
+File Name: C:\Downloaded Web Sites\remake.co.jp\index.htm
+Content Type: text/html
+
+Uri: http://remake.co.jp/favicon.ico
+File Name: C:\Downloaded Web Sites\remake.co.jp\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://remake.co.jp/css/style.css
+File Name: C:\Downloaded Web Sites\remake.co.jp\css\style.css
+Content Type: text/css
+
+Uri: http://remake.co.jp/index.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\index.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Technology.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Technology.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Renovation.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Renovation.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Customer.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Customer.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/company.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\company.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/syokunin.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\syokunin.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Knowledge.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Knowledge.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Kitchen.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Kitchen.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Bath.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Bath.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Toilet.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Toilet.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Hot-water.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Hot-water.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Dressing.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Dressing.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Barrier-free.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Barrier-free.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/window.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\window.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Fittings.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Fittings.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Wallpaper.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Wallpaper.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Floor.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Floor.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/wall.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\wall.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Roof.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Roof.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/item/Exterior.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\item\Exterior.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Agreement.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Agreement.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/Privacypolicy.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\Privacypolicy.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/map.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\map.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/js/script.js
+File Name: C:\Downloaded Web Sites\remake.co.jp\js\script.js
+Content Type: application/javascript
+
+Uri: http://remake.co.jp/images/logo.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/1.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\1.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/2.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\2.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/3.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\3.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/menu_on_01.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_on_01.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/menu_02.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_02.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/menu_03.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_03.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/menu_04.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_04.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/menu_05.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_05.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/THREEPOINT.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\THREEPOINT.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/point1.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\point1.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/point2.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\point2.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/point3.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\point3.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/Misshon.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\Misshon.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/hikaku.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\hikaku.gif
+Content Type: image/gif
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3211.9318380584778!2d140.55611001478087!3d36.38664408003582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60222e4a6f7381d5:0x7168807cf07a0be8!2z44CSMzEyLTAwMTEg6Iyo5Z-O55yM44Gy44Gf44Gh44Gq44GL5biC5Lit5qC577yS77yS77yY77yT4oiS77yT!5e0!3m2!1sja!2sjp!4v1465035465063
+File Name: C:\Downloaded Web Sites\remake.co.jp\maps\embed.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/images/toiawase.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\toiawase.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/sassi.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\sassi.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/syokunin.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\syokunin.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/blog.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\blog.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/pagetop.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\pagetop.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/js/slide_simple_pack.js
+File Name: C:\Downloaded Web Sites\remake.co.jp\js\slide_simple_pack.js
+Content Type: application/javascript
+
+Uri: http://remake.co.jp/images/bg.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\bg.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/bg_top.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\bg_top.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/header_bg.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\header_bg.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/midashi_bg1.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\midashi_bg1.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/midashi_bg0.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\midashi_bg0.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/tec/Exterior-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Exterior-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Exterior-2.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Exterior-2.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Exterior-3.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Exterior-3.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Nursing-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Nursing-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Nursing-2.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Nursing-2.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Dissolution-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Dissolution-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-6.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-6.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Shutter-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Shutter-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Painting-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Painting-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-3.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-3.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-4.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-4.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-5.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-5.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Interior-1.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Interior-1.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/tec/Building-2.html
+File Name: C:\Downloaded Web Sites\remake.co.jp\tec\Building-2.html
+Content Type: text/html
+
+Uri: http://remake.co.jp/images/subimg_Technology.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\subimg_Technology.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/menu_01.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_01.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/menu_on_02.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_on_02.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/t-01.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\t-01.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/s-06.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\s-06.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/t-04.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\t-04.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/t-02.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\t-02.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/B-16.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\B-16.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/t-03.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\t-03.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/t-05.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\t-05.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/subimg_Renovation.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\subimg_Renovation.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/menu_on_03.gif
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\menu_on_03.gif
+Content Type: image/gif
+
+Uri: http://remake.co.jp/images/01.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\01.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/02.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\02.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/03.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\03.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/04.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\04.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/05.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\05.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/06.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\06.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/07.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\07.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/08.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\08.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/09.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\09.jpg
+Content Type: image/jpeg
+
+Uri: http://remake.co.jp/images/010.jpg
+File Name: C:\Downloaded Web Sites\remake.co.jp\images\010.jpg
+Content Type: image/jpeg
+
+Uri: https://ameblo.jp/remake55/
+File Name: C:\Downloaded Web Sites\remake.co.jp\remake55\index.htm
+Content Type: text/html
+

@@ -1,0 +1,1 @@
+(window._ambjs=window._ambjs||[]).push([[10],{jnPM:function(e,n,r){"use strict";r.d(n,"a",(function(){return u}));var t=r("W0B4"),c=r.n(t),a=r("mXGw");function o(e){var{children:n,placeholder:r=null}=e,[t,c]=Object(a.useState)(!1);return Object(a.useEffect)(()=>{c(!0)},[]),t?n:r}o.propTypes={children:c.a.node.isRequired,placeholder:c.a.node};var u=Object(a.memo)(o)}}]);

@@ -1,0 +1,962 @@
+@charset "utf-8";
+/*--------------------------------------------------
+skin.css
+$Id: skin.css,v 1.5 2011/10/27 08:52:20 moteki_miyuki_gn Exp $
+--------------------------------------------------*/
+
+/*TOC===============================================
+
+カラー設定
+	A 基本カラー設定
+	B 記事/メッセージ　カラー設定
+	C サイドバー　カラー設定
+	D 枠の外の配色
+ボタンのスタイル
+ブロックごとのスタイル
+
+==================================================*/
+
+
+
+
+/*==============================================
+
+　カラー設定
+
+==============================================*/
+
+
+/* 【A　基本カラー設定】
+============================================*/
+
+/* テキスト色
+--------------------------------------------*/
+
+/* 地色テキスト */
+.skinTextColor,
+.skinBaseTextColor,
+.skinBlock,
+body{
+color:#333;			/* 【CSS規則】colorのみ指定可能 */
+}
+
+
+/* リンク色（基本） */
+.skinAnchorColor,
+.skinBaseAnchorColor,
+.skinBlock a,
+a{
+color:#ffa800;			/* 【CSS規則】colorのみ指定可能 */
+}
+
+
+/* リンク色（visited） */
+.skinAnchorVisitedColor,
+.skinBaseAnchorVisitedColor,
+.skinBlock a:visited,
+a:visited{
+color:#B46E00;			/* 【CSS規則】colorのみ指定可能 */
+}
+
+
+/* リンク色（hover） 
+.skinAnchorHoverColor,
+.skinBaseAnchorHoverColor,
+.skinBlock a:focus,
+.skinBlock a:hover,
+a:focus,
+a:hover{【CSS規則】colorのみ指定可能 }
+*/
+
+/* 淡　テキスト色 */
+.skinWeakColor,
+.skinBaseWeakColor{
+color:#999;			/* 【CSS規則】colorのみ指定可能 */
+}
+
+
+/* 強調　テキスト色 */
+.skinStrongColor,
+.skinBaseStrongColor{
+color:#FF0900;			/* 【CSS規則】colorのみ指定可能 */
+}
+
+
+
+
+/* 背景色
+--------------------------------------------*/
+/* 背景色 */
+.skinBgColor,
+.skinBaseBgColor,
+.skinBlock{
+background-color:#fff;		/* 【CSS規則】background-colorのみ指定可能 */
+}
+
+
+/* 淡　背景色 */
+.skinWeakBgColor,
+.skinBaseWeakBgColor{
+background-color:#FFF5E2;	/* 【CSS規則】background-colorのみ指定可能 */
+}
+
+
+/* 強調　背景色 */
+.skinStrongBgColor,
+.skinBaseStrongBgColor{
+background-color:#FFF5E2;	/* 【CSS規則】background-colorのみ指定可能 */
+}
+
+
+
+/* 枠線色（一覧ページの枠線色など）
+--------------------------------------------*/
+.skinBorderColor,
+.skinBaseBorderColor,
+.skinBlock{
+border-color:#ffa800;		/* 【CSS規則】border-colorのみ指定可能 */
+}
+
+
+
+/* リスト境界線色（メインカラム一覧ページのリストなど　※サイドバー内のリスト境界線色は別）
+--------------------------------------------*/
+.skinBorderHr,
+.skinBorderList li{
+border-color:#ffa800;	/* 【CSS規則】border-colorのみ指定可能 */
+}
+
+
+
+
+
+/* 【B　記事/メッセージ　カラー設定】
+============================================*/
+/*
+ *
+ * ※基本カラー設定と配色を変える箇所のみ指定
+ * ※テキストの色のみ
+ *
+ */
+
+/*
+.skinMainArea,
+.skinMainArea .skinTextColor,
+.skinArticleTextColor,
+.skinArticleBlock{}
+
+.skinMainArea .skinAnchorColor,
+.skinArticleAnchorColor,
+.skinMainArea a,
+.skinArticleBlock a{}
+
+.skinMainArea .skinAnchorVisitedColor,
+.skinArticleAnchorVisitedColor,
+.skinMainArea a:visited,
+.skinArticleBlock a:visited{}
+
+.skinMainArea .skinAnchorHoverColor,
+.skinArticleAnchorHoverColor,
+.skinMainArea a:focus,
+.skinMainArea a:hover,
+.skinArticleBlock a:focus,
+.skinArticleBlock a:hover{}
+
+.skinMainArea .skinWeakColor,
+.skinArticleWeakColor{}
+
+.skinMainArea .skinStrongColor,
+.skinArticleStrongColor{}
+*/
+
+
+
+
+
+/* 【C　サイドバー　カラー設定】
+============================================*/
+/*
+ *
+ * ※基本カラー設定と配色を変える箇所のみ指定
+ * ※テキストの色のみ
+ *
+ */
+
+/*
+.skinSubArea,
+.skinSubArea .skinTextColor,
+.skinSubTextColor,
+.skinSubBlock{}
+
+.skinSubArea a,
+.skinSubArea .skinAnchorColor,
+.skinSubAnchorColor,
+.skinSubBlock a{}
+
+.skinSubArea a:visited,
+.skinSubArea .skinAnchorVisitedColor,
+.skinSubAnchorVisitedColor,
+.skinSubBlock a:visited{}
+
+.skinSubArea a:focus,
+.skinSubArea a:hover,
+.skinSubArea .skinAnchorHoverColor,
+.skinSubAnchorHoverColor,
+.skinSubBlock a:focus,
+.skinSubBlock a:hover{}
+
+.skinSubArea .skinWeakColor,
+.skinSubWeakColor{}
+
+.skinSubArea .skinStrongColor,
+.skinSubStrongColor{}
+*/
+
+
+
+
+
+/* 【D 枠の外の配色 】
+============================================*/
+/*
+ *
+ * 記事やサイドが枠で囲われているデザインで、
+ * 枠の外の文字の可読性が低い場合に文字の色か、文字の背景を指定する
+ *
+
+.skinFieldBlock a,
+.skinFieldBlock a:visited,
+.skinFieldBlock a:focus,
+.skinFieldBlock a:hover,
+.skinFieldBlock {}
+
+ */
+
+.skinFieldBlock {
+background-color:#fff;
+margin-top:10px;
+padding:10px;
+}
+
+
+
+/*==============================================
+
+ ボタンのスタイル
+
+==============================================*/
+
+
+/* skinImgBtn 読者になるなどのボタン
+--------------------------------------------*/
+
+/* skinImgBtnM (180px) */
+.skinImgBtnM{
+background-image:url(../img/skin_btn_m.png);
+}
+.skinImgBtnM:hover span,
+.skinImgBtnM:focus span,
+.skinImgBtnM span{
+color:#333;
+}
+
+
+/* skinImgBtnS (128px) */
+.skinImgBtnS{
+background-image:url(../img/skin_btn_s.png);
+}
+.skinImgBtnS:hover span,
+.skinImgBtnS:focus span,
+.skinImgBtnS span{
+background-image:url(//stat100.ameba.jp/common_style/img/skin/cmn/icons/menu_icons/menu_icons_pastel.png);/* アイコン画像を指定 */
+color:#333;
+}
+/*
+ボタンのアイコン画像
+
+menu_icons_pastel.png
+menu_icons_gray.png
+menu_icons_black.png
+menu_icons_white.png
+*/
+
+
+
+/* skinSimpleBtn ページングの次へ、前へボタン
+--------------------------------------------*/
+
+.skinSimpleBtn,
+.skinSimpleBtn:visited,
+.skinSimpleBtn:hover,
+.skinSimpleBtn:focus{
+border:1px solid #ddd;
+background:#fff;
+color:#ffa800;
+}
+.skinSimpleBtn:hover,
+.skinSimpleBtn:focus{
+background:#f7f7f7;
+}
+
+
+
+
+
+
+
+/*==============================================
+
+ ブロックごとのスタイル
+
+==============================================*/
+
+
+/* ボディ　【CSS規則】bodyタグ自体にはスタイルをあてない
+--------------------------------------------*/
+
+/* skinBody bodyの代わり */
+.skinBody{/* 【簡単カスタム対象】 */
+}
+.skinBody2{}
+.skinBody3{}
+
+
+/* skinFrame 横幅を指定したいときなどに使うフレーム */
+.skinFrame{padding-top:22px;}
+
+
+
+/* ヘッダー
+--------------------------------------------*/
+
+/*
+ * .headerBnrArea 広告が出力されるエリア
+ * 広告が出力されないときも、高さを維持したい時に使う
+ *
+ */
+.headerBnrArea{
+/* 注 blog.cssにpadding-bottom:15px;記述有り */
+padding-bottom:15px;
+}
+
+
+/* skinHeaderFrame 広告もブログタイトルも囲う横幅のないヘッダーフレーム */
+.skinHeaderFrame{}
+
+
+/* skinHeaderArea ブログヘッダー */
+.skinHeaderArea{/*【簡単カスタム対象】*/
+/* 注 blog.cssにwidth:980px;の記述有り */
+/* 【簡単カスタム対象】注 paddingの指定禁止 .skinBlogHeadingGroupAreaに指定すること*/
+margin-bottom:10px;
+}
+.skinHeaderArea2{
+/* 【簡単カスタム対象】注 margin,paddingの指定禁止 .skinBlogHeadingGroupAreaに指定すること*/
+}
+
+
+/* skinBlogHeadingGroupArea 【簡単カスタム対象】*/
+.skinBlogHeadingGroupArea{
+/* 【簡単カスタム対象】ブログタイトルと説明のpaddingのみ指定可能 */
+padding:20px 0 20px;
+}
+
+
+/* skinTitleArea ブログタイトルのブロック */
+.skinTitleArea{/*【簡単カスタム対象】*/
+padding-bottom:4px;
+}
+
+
+/* skinTitle ブログタイトル文字 */
+.skinTitle,
+.skinTitle:visited,
+.skinTitle:hover,
+.skinTitle:focus{
+color:#ffa800;
+font-weight:bold;
+font-size:2.11em;
+}
+
+
+/* skinDescription ブログの説明ブロック */
+.skinDescriptionArea{/*【簡単カスタム対象】*/
+}
+
+/* skinDescription ブログの説明文字 */
+.skinDescription{
+color:#333;
+}
+
+
+
+/* コンテンツエリア
+--------------------------------------------*/
+
+/* skinContentsFrame コンテンツを囲う横幅の無いフレーム */
+.skinContentsFrame{}
+
+
+/* skinContentsArea コンテンツ980pxブロック */
+.skinContentsArea{
+/* 注 blog.cssにwidth:980px;の記述有り */
+}
+
+
+
+/* メインエリア
+--------------------------------------------*/
+
+.skinMainArea{}
+
+
+
+/* メッセージボード
+--------------------------------------------*/
+
+.skinMessageBoard{
+/* 注 blog.cssに margin-bottom の記述有り */
+border-top:1px dotted #ffa800;
+border-bottom:1px dotted #ffa800;
+background:#fff;
+}
+.skinMessageBoard2{}
+.skinMessageBoard3{
+padding:16px 30px;
+}
+
+/* カラム別の記述
+.columnA .skinMessageBoard,
+.columnB .skinMessageBoard{}
+
+.columnC .skinMessageBoard,
+.columnD .skinMessageBoard,
+.columnE .skinMessageBoard{}
+*/
+
+
+
+
+/* 記事
+--------------------------------------------*/
+
+/* skinArticle 記事ブロック */
+.skinArticle{
+/* 注　blog.cssに margin-bottom の記述有り */
+padding:16px 0;
+border:1px solid #ffa800;
+background:#fff;
+}
+.skinArticle2{}
+.skinArticle3{}
+
+/* カラム別の記述
+.columnA .skinArticle,
+.columnB .skinArticle{}
+
+.columnC .skinArticle,
+.columnD .skinArticle,
+.columnE .skinArticle{}
+*/
+
+
+/* skinArticleHeader 記事ヘッダーブロック */
+.skinArticleHeader{
+margin:0 29px;
+padding:2px 10px;
+border-left:5px solid #ffa800;
+}
+.skinArticleHeader2{}
+
+
+/* skinArticleTitle 記事ヘッダー文字 */
+.skinArticleTitle,
+.skinArticleTitle:hover,
+.skinArticleTitle:focus,
+.skinArticleTitle:visited{
+font-size:1.31em;
+font-weight:bold;
+color:#ffa800;
+}
+
+
+/* skinArticleBody 記事本文ブロック */
+/*
+ * 【デザイン規則】記事の中身の横幅は 2カラム 605px、3カラム 410pxになるように
+ */
+.skinArticleBody{}
+.skinArticleBody2{
+margin:0 29px;
+}
+
+
+/* skinArticleFooter 記事フッターブロック */
+.skinArticleFooter{
+margin:10px 29px 0;
+border-top:1px dotted #ffa800;
+}
+
+
+
+
+/* サイドエリア
+--------------------------------------------*/
+
+.skinSubArea {}/* 共通 */
+.skinSubA{}/* (300px) */
+.skinSubB{}/* (180px) */
+
+
+
+
+
+/* サイド　メニュー
+--------------------------------------------*/
+
+
+/* skinMenu サイドメニューのブロック */
+.skinMenu{
+/* 注　blog.cssに margin-bottom の記述有り */
+margin-bottom:10px;
+background:#ffe4b0;
+}
+.skinMenu2{}
+
+/* subA subB別の記述
+.skinSubA .skinMenu{}
+.skinSubB .skinMenu{}
+*/
+
+
+
+/* skinMenuHeader サイドメニューヘッダー */
+.skinMenuHeader{
+padding:5px 10px;
+background:#ffa800;
+}
+
+/* skinMenuTitle サイドメニュータイトル文字 */
+.skinMenuTitle{
+color:#fff;
+font-weight:bold;
+}
+
+
+
+/* skinMenuBody サイドメニュー本文ブロック */
+/*
+ * 【デザイン規則】サイドバーの中身の横幅は subA 260px、subB 140px
+ */
+.skinMenuBody{
+margin:10px;
+padding:10px;
+background:#fff;
+}
+
+
+
+
+
+/* サイドバーのリスト、境界線
+--------------------------------------------*/
+/*
+ * 【CSS規則】
+ * ・要素の下に表示すること
+ * ・境界線が持つ余白（margin-bottom, padding-bottom）も設定すること
+ *
+ */
+.skinSubHr,
+.skinSubList li{
+margin-bottom:3px;
+padding-bottom:3px;
+border-bottom:1px dotted #ffa800;
+}
+
+/* skinSubA skinSubBで違う場合
+.skinSubA .skinSubHr,
+.skinSubA .skinSubList li{}
+
+.skinSubB .skinSubHr,
+.skinSubB .skinSubList li{}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==============================================
+
+ オリジナルカスタム要素
+
+==============================================*/
+
+#rc_box{
+width:365px;
+margin:15px auto 0 auto;
+padding-bottom:9px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/official_footer_footer.gif) no-repeat left bottom;
+}
+
+#rc_box a{
+color:#0066CC !important;
+text-decoration:none;
+}
+#rc_box a:hover{
+color:#FF0000 !important;
+text-decoration:underline;
+}
+
+#rc_box_header{
+width:365px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/official_footer_bg.gif) no-repeat left bottom;
+padding-bottom:9px;
+}
+
+#rc_box ul{
+width:360px;
+margin:0px;
+list-style:none;
+}
+
+#rc_box ul li{
+float:left;
+padding:0 0 6px 10px;
+width:108px;
+}
+
+#rc_box ul li a.label01{
+display:block;
+width:108px;
+height:14px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_top.gif) no-repeat 0px 0px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+#rc_box ul li a.label02{
+display:block;
+width:108px;
+height:14px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_recommend.gif) no-repeat 0px 3px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+#rc_box ul li a.label03{
+display:block;
+width:108px;
+height:15px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_photo.gif) no-repeat 0px 0px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+#rc_box ul li a.label04{
+display:block;
+width:108px;
+height:17px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_pickup.gif) no-repeat 0px 0px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+#rc_box ul li a.label05{
+display:block;
+width:108px;
+height:17px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_shop.gif) no-repeat 0px 2px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+#rc_box ul li a.label06{
+display:block;
+width:108px;
+height:17px;
+text-indent:-9999px;
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_register.gif) no-repeat 0px 2px;
+/*\*/
+   overflow: hidden;
+/**/
+}
+
+#rc_box ul li a.label01:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_top.gif) no-repeat 0px -14px;
+text-decoration:none;
+}
+#rc_box ul li a.label02:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_recommend.gif) no-repeat 0px -14px;
+text-decoration:none;
+}
+#rc_box ul li a.label03:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_photo.gif) no-repeat 0px -15px;
+text-decoration:none;
+}
+#rc_box ul li a.label04:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_pickup.gif) no-repeat 0px -17px;
+text-decoration:none;
+}
+#rc_box ul li a.label05:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_shop.gif) no-repeat 0px -15px;
+text-decoration:none;
+}
+#rc_box ul li a.label06:hover{
+background:url(//stat100.ameba.jp/p_skin/cmn/img/rclink_register.gif) no-repeat 0px -15px;
+text-decoration:none;
+}
+
+#rc_box p.randomlink{
+width:365px;
+text-align:center;
+margin-top:8px;
+}
+
+#flashcontent {
+padding-top:15px;
+text-align:center;
+}
+
+#rc_box #flashcontent{
+width:365px;
+padding:0 0 2px;
+color:#000;
+}
+
+/* safari only \*/
+html[xmlns*=""] body:last-child #rc_box p.randomlink{padding-top:0px;}
+html[xmlns*=""] body:last-child #rc_box #flashcontent{padding:0 0 1px;}
+
+
+
+
+
+
+
+
+/*rc09*/
+.rc_box09{
+padding-bottom:5px !important;
+}
+
+#rc_box #rcflash09{
+width:365px;
+padding-bottom:1px;
+background:url(/p_skin/cmn/img/official_footer_bg.gif) no-repeat left bottom;
+}
+
+/* IE6,IE7 */
+#rc_box #rcflash09 { /padding-bottom:2px;}
+
+#rc_box ul.rc_head{
+padding:6px 0 3px 5px;
+}
+
+#rc_box ul.rc_head{
+/padding:6px 0 4px 5px;
+}
+
+#rc_box ul.rc_btm{
+padding:7px 0 0 5px;
+background:url(/p_skin/cmn/img/line_official_ad.gif) no-repeat 50% 0;
+}
+#rc_box ul.rc_btm a.label01{
+background-image:url(/p_skin/cmn/img/label04.gif);
+}
+#rc_box ul.rc_btm a.label02{
+background-image:url(/p_skin/cmn/img/label05.gif);
+}
+#rc_box ul.rc_btm a.label03{
+background-image:url(/p_skin/cmn/img/label06.gif);
+}
+#rc_box ul.rc_btm a.label01:hover{
+background-image:url(/p_skin/cmn/img/label04.gif);
+}
+#rc_box ul.rc_btm a.label02:hover{
+background-image:url(/p_skin/cmn/img/label05.gif);
+}
+#rc_box ul.rc_btm a.label03:hover{
+background-image:url(/p_skin/cmn/img/label06.gif);
+}
+
+#rc_box #feature{
+background:url("//stat100.ameba.jp/p_skin/cmn/img/line_official_ad.gif") no-repeat scroll center bottom transparent;
+border-left:1px solid #CCCCCC;
+border-right:1px solid #CCCCCC;
+font-size:10px;
+padding:4px 0 10px;
+text-align:center;
+}
+
+#rc_box #feature a{
+background:url("//stat.ameba.jp/common_style/img/common/icon/hot2.gif") no-repeat scroll 0 0 transparent;
+padding:5px 0 0 19px;
+}
+
+* html #rc_box #feature a{ 	/* IE6 */
+	padding:4px 0 0 19px;
+}
+*+html #rc_box #feature a{ 	/* IE7 */
+	padding:4px 0 0 19px;
+}
+
+
+
+
+
+
+
+/*記事 下部ランキングチェッカー 殿堂枠*/
+
+#rc_box #Dendo{
+background-color:#FFF4FA;
+width:347px;
+margin:0 0 0 9px;
+
+}
+#DendoMdl dt{
+width:53px;
+float:left;
+padding:0 3px 0 5px;
+margin:0;
+}
+
+#DendoMdl dd{
+float:left;
+margin:0;
+padding:0;
+padding-top:5px;
+}
+#DendoMdl img{
+border:1px solid #CCCCCC;
+padding:1px;
+margin-right:5px;
+}
+#DendoMdl dd p.catch{
+color:#FF6602;
+}
+#DendoMdl dd p.blogtitle{
+font-size:0.85em;
+}
+#DendoMdl dd p.dendoLink{
+font-size:0.85em;
+text-align:right;
+width:220px;
+}
+
+#dendoBox {
+margin:0;
+padding:5px 0 0 7px;
+width:350px;
+height:50px;
+}
+#dendoBox h4 {
+float:left;
+margin:0;
+padding:3px 0 0;
+width:45px;
+}
+#dendoBox dl {
+float:left;
+margin:0;
+padding:5px 0 0;
+width:304px;
+}
+#dendoBox dt {
+float:left;
+padding-left:2px;
+width:36px;
+}
+#dendoBox dt a img {
+border: 1px solid #D8D8D8;
+}
+#dendoBox dd {
+float:left;
+font-size:0.85em;
+margin:0 0 0 7px;
+padding-right:0;
+}
+.dendoLink {
+display:block;
+margin:0;
+padding: 0px 10px 2px 0;
+display: block;
+font-size: 10px;
+text-align: right;
+}
+
+#dendoBox .dendoName {
+background:transparent url(//stat100.ameba.jp/p_skin/cmn/img/crown.gif) no-repeat scroll 0 0;
+font-size:10px;
+padding:2px 0 3px 13px;
+color:#59625E;
+}
+
+#DendoList {
+margin: 0 0 0;
+padding: 3px 0pt 6px;
+}
+
+#supporter p {
+background:url(//stat.ameba.jp/common_style/img/common/icon/smile.gif) no-repeat 0 5px;
+padding:7px 0 2px 18px;
+font-weight:bold;
+}
+
+
+#DendoBox {
+margin:0;
+padding:5px 0 0 7px;
+width:350px;
+}
+#DendoBox h4 {
+float:left;
+margin:0;
+padding:3px 0 0;
+width:45px;
+}
+#DendoBox dl {
+float:left;
+margin:0;
+padding:5px 0 0;
+width:304px;
+}
+#DendoBox dt {
+float:left;
+padding-left:2px;
+width:36px;
+}
+#DendoBox dt a img {
+border: 1px solid #D8D8D8;
+}
+#DendoBox dd {
+float:left;
+font-size:0.85em;
+margin:0 0 0 7px;
+padding-right:0;
+}
+#DendoBox .dendoName {
+background:transparent url(//stat100.ameba.jp/p_skin/cmn/img/crown.gif) no-repeat scroll 0 0;
+font-size:10px;
+padding:2px 0 3px 13px;
+color:#59625E;
+}
+
+
+#rcflash09 embed{
+outline:none;
+}
+
